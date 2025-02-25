@@ -53,7 +53,7 @@
   }
   
   .view-btn.active {
-    background-color: #4CAF50;
+    background-color: #df5f2d;
     color: white;
   }
   
@@ -159,7 +159,7 @@
     display: flex;
     align-items: center;
     gap: 8px;
-    background-color: #4CAF50;
+    background-color: #292929;
     color: white;
     border: none;
     padding: 8px 16px;
@@ -170,7 +170,7 @@
   }
   
   .add-to-cart-btn:hover {
-    background-color: #3d8b40;
+    background-color: #232323;
   }
   
   .food-item-counter {
@@ -269,7 +269,7 @@
     display: flex;
     align-items: center;
     gap: 6px;
-    background-color: #4CAF50;
+    background-color: #272727;
     color: white;
     border: none;
     padding: 6px 12px;

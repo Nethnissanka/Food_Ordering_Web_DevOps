@@ -26,13 +26,13 @@ const Footer = () => {
                 <div className="footer-content-right">
                     <h2>GET IN TOUCH</h2>
                     <ul>
-                        <li>+91 931-343-7008</li>
-                        <li>contact@avinashmourya.com</li>
+                        <li>+11 933-7108</li>
+                        <li>contact@nethminimasha.com</li>
                     </ul>
                 </div>
             </div>
             <hr />
-            <p className="footer-copyright">Copyright 2024 © Tomato.com -  All Rights Reserved.</p>
+            <p className="footer-copyright">Copyright 2025 © Tomato.lk -  All Rights Reserved.</p>
         </div>
     )
 }
