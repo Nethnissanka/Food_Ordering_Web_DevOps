@@ -8,7 +8,10 @@
     color: #262626;
     font-weight: 500;
 }
-
+.explore-menu h3 {
+    color: #ca5b0c;
+    font-weight: 500;
+}
 .explore-menu-text {
     max-width: 60%;
     color: #808080;
